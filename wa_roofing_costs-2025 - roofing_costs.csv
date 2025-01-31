@@ -1,0 +1,73 @@
+Roof Type,Walk-ability,Home Size (Sq. Ft.),Architectural Composite Shingles Min,Architectural Composite Shingles Max,Standing Seam Metal Min,Standing Seam Metal Max,Low Slope/Single Ply Membrane Min,Low Slope/Single Ply Membrane Max
+Cross Hipped,Walkable,0 - 1000 Sq. Ft.,7800,20000,19500,50000,15600,40000
+Cross Hipped,Walkable,1000 - 1750 Sq. Ft.,10400,26000,26000,65000,20800,52000
+Cross Hipped,Walkable,1750 - 2500 Sq. Ft.,15600,34000,39000,85000,31200,68000
+Cross Hipped,Walkable,2500+ Sq. Ft.,19500,42000,48750,105000,39000,84000
+Cross Hipped,Slightly Walkable,0 - 1000 Sq. Ft.,8450,21000,21125,52500,16900,42000
+Cross Hipped,Slightly Walkable,1000 - 1750 Sq. Ft.,11050,27000,26625,67500,22100,54000
+Cross Hipped,Slightly Walkable,1750 - 2500 Sq. Ft.,16250,35000,40625,87500,32500,70000
+Cross Hipped,Slightly Walkable,2500+ Sq. Ft.,20150,43000,50375,107500,40300,86000
+Cross Hipped,Too Steep to Walk,0 - 1000 Sq. Ft.,9100,22000,22750,55000,18200,44000
+Cross Hipped,Too Steep to Walk,1000 - 1750 Sq. Ft.,11700,28000,26250,70000,23400,56000
+Cross Hipped,Too Steep to Walk,1750 - 2500 Sq. Ft.,16900,36000,42250,90000,33800,72000
+Cross Hipped,Too Steep to Walk,2500+ Sq. Ft.,20800,48000,52000,120000,41600,96000
+Dormer,Walkable,0 - 1000 Sq. Ft.,7800,20000,19500,50000,15600,40000
+Dormer,Walkable,1000 - 1750 Sq. Ft.,10400,26000,26000,65000,20800,52000
+Dormer,Walkable,1750 - 2500 Sq. Ft.,15600,34000,39000,85000,31200,68000
+Dormer,Walkable,2500+ Sq. Ft.,19500,42000,48750,105000,39000,84000
+Dormer,Slightly Walkable,0 - 1000 Sq. Ft.,8450,21000,21125,52500,16900,42000
+Dormer,Slightly Walkable,1000 - 1750 Sq. Ft.,11050,27000,26625,67500,22100,54000
+Dormer,Slightly Walkable,1750 - 2500 Sq. Ft.,16250,35000,40625,87500,32500,70000
+Dormer,Slightly Walkable,2500+ Sq. Ft.,20150,43000,50375,107500,40300,86000
+Dormer,Too Steep to Walk,0 - 1000 Sq. Ft.,9100,22000,22750,55000,18200,44000
+Dormer,Too Steep to Walk,1000 - 1750 Sq. Ft.,11700,28000,26250,70000,23400,56000
+Dormer,Too Steep to Walk,1750 - 2500 Sq. Ft.,16900,36000,42250,90000,33800,72000
+Dormer,Too Steep to Walk,2500+ Sq. Ft.,20800,48000,52000,120000,41600,96000
+Hip,Walkable,0 - 1000 Sq. Ft.,7800,20000,19500,50000,15600,40000
+Hip,Walkable,1000 - 1750 Sq. Ft.,10400,26000,26000,65000,20800,52000
+Hip,Walkable,1750 - 2500 Sq. Ft.,15600,34000,39000,85000,31200,68000
+Hip,Walkable,2500+ Sq. Ft.,19500,42000,48750,105000,39000,84000
+Hip,Slightly Walkable,0 - 1000 Sq. Ft.,8450,21000,21125,52500,16900,42000
+Hip,Slightly Walkable,1000 - 1750 Sq. Ft.,11050,27000,26625,67500,22100,54000
+Hip,Slightly Walkable,1750 - 2500 Sq. Ft.,16250,35000,40625,87500,32500,70000
+Hip,Slightly Walkable,2500+ Sq. Ft.,20150,43000,50375,107500,40300,86000
+Hip,Too Steep to Walk,0 - 1000 Sq. Ft.,9100,22000,22750,55000,18200,44000
+Hip,Too Steep to Walk,1000 - 1750 Sq. Ft.,11700,28000,26250,70000,23400,56000
+Hip,Too Steep to Walk,1750 - 2500 Sq. Ft.,16900,36000,42250,90000,33800,72000
+Hip,Too Steep to Walk,2500+ Sq. Ft.,20800,48000,52000,120000,41600,96000
+Hip & Valley,Walkable,0 - 1000 Sq. Ft.,7800,20000,19500,50000,15600,40000
+Hip & Valley,Walkable,1000 - 1750 Sq. Ft.,10400,26000,26000,65000,20800,52000
+Hip & Valley,Walkable,1750 - 2500 Sq. Ft.,15600,34000,39000,85000,31200,68000
+Hip & Valley,Walkable,2500+ Sq. Ft.,19500,42000,48750,105000,39000,84000
+Hip & Valley,Slightly Walkable,0 - 1000 Sq. Ft.,8450,21000,21125,52500,16900,42000
+Hip & Valley,Slightly Walkable,1000 - 1750 Sq. Ft.,11050,27000,26625,67500,22100,54000
+Hip & Valley,Slightly Walkable,1750 - 2500 Sq. Ft.,16250,35000,40625,87500,32500,70000
+Hip & Valley,Slightly Walkable,2500+ Sq. Ft.,20150,43000,50375,107500,40300,86000
+Hip & Valley,Too Steep to Walk,0 - 1000 Sq. Ft.,9100,22000,22750,55000,18200,44000
+Hip & Valley,Too Steep to Walk,1000 - 1750 Sq. Ft.,11700,28000,26250,70000,23400,56000
+Hip & Valley,Too Steep to Walk,1750 - 2500 Sq. Ft.,16900,36000,42250,90000,33800,72000
+Hip & Valley,Too Steep to Walk,2500+ Sq. Ft.,20800,48000,52000,120000,41600,96000
+Intersecting/Overlaid Hip,Walkable,0 - 1000 Sq. Ft.,7800,20000,19500,50000,15600,40000
+Intersecting/Overlaid Hip,Walkable,1000 - 1750 Sq. Ft.,10400,26000,26000,65000,20800,52000
+Intersecting/Overlaid Hip,Walkable,1750 - 2500 Sq. Ft.,15600,34000,39000,85000,31200,68000
+Intersecting/Overlaid Hip,Walkable,2500+ Sq. Ft.,19500,42000,48750,105000,39000,84000
+Intersecting/Overlaid Hip,Slightly Walkable,0 - 1000 Sq. Ft.,8450,21000,21125,52500,16900,42000
+Intersecting/Overlaid Hip,Slightly Walkable,1000 - 1750 Sq. Ft.,11050,27000,26625,67500,22100,54000
+Intersecting/Overlaid Hip,Slightly Walkable,1750 - 2500 Sq. Ft.,16250,35000,40625,87500,32500,70000
+Intersecting/Overlaid Hip,Slightly Walkable,2500+ Sq. Ft.,20150,43000,50375,107500,40300,86000
+Intersecting/Overlaid Hip,Too Steep to Walk,0 - 1000 Sq. Ft.,9100,22000,22750,55000,18200,44000
+Intersecting/Overlaid Hip,Too Steep to Walk,1000 - 1750 Sq. Ft.,11700,28000,26250,70000,23400,56000
+Intersecting/Overlaid Hip,Too Steep to Walk,1750 - 2500 Sq. Ft.,16900,36000,42250,90000,33800,72000
+Intersecting/Overlaid Hip,Too Steep to Walk,2500+ Sq. Ft.,20800,48000,52000,120000,41600,96000
+Open Gable,Walkable,0 - 1000 Sq. Ft.,7800,20000,19500,50000,15600,40000
+Open Gable,Walkable,1000 - 1750 Sq. Ft.,10400,26000,26000,65000,20800,52000
+Open Gable,Walkable,1750 - 2500 Sq. Ft.,15600,34000,39000,85000,31200,68000
+Open Gable,Walkable,2500+ Sq. Ft.,19500,42000,48750,105000,39000,84000
+Open Gable,Slightly Walkable,0 - 1000 Sq. Ft.,8450,21000,21125,52500,16900,42000
+Open Gable,Slightly Walkable,1000 - 1750 Sq. Ft.,11050,27000,26625,67500,22100,54000
+Open Gable,Slightly Walkable,1750 - 2500 Sq. Ft.,16250,35000,40625,87500,32500,70000
+Open Gable,Slightly Walkable,2500+ Sq. Ft.,20150,43000,50375,107500,40300,86000
+Open Gable,Too Steep to Walk,0 - 1000 Sq. Ft.,9100,22000,22750,55000,18200,44000
+Open Gable,Too Steep to Walk,1000 - 1750 Sq. Ft.,11700,28000,26250,70000,23400,56000
+Open Gable,Too Steep to Walk,1750 - 2500 Sq. Ft.,16900,36000,42250,90000,33800,72000
+Open Gable,Too Steep to Walk,2500+ Sq. Ft.,20800,48000,52000,120000,41600,96000
